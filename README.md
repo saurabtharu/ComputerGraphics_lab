@@ -6,7 +6,7 @@
 	 * 03.c
 	 * 04.cpp
 	 * 2DLineTransformation.c
-	 *makefile
+	 * makefile
 * lab1.1
 	 * 01.c
 	 * 02.c
@@ -17,23 +17,23 @@
 	 * makefile
 * lab2
 	 * DDA_algorithm.c
-	 *makefile
+	 * makefile
 * lab3
 	 * BLA.c
 	 * Breshenham.c
-	 *makefile
+	 * makefile
 * lab4
 	 * makefile
-	 *mid-point-circle-algorithm.c
+	 * mid-point-circle-algorithm.c
 * lab5
 	 * makefile
-	 *MidpointEllipseAlgorithm.c
+	 * MidpointEllipseAlgorithm.c
 * lab6
 	 * boundary-fill-4-points.c
 	 * boundary-fill-8-points.c
 	 * boundary-fill.c
 	 * flood-fill.c
-	 *makefile
+	 * makefile
 * lab7
 	 * makefile
 	 * reflection.c
